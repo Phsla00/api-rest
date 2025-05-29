@@ -23,6 +23,9 @@ In this project I consume a rest api from The Movie Database using axios and rea
    npm install react-icons --save
 
    npm i react-loading
-3. Run the project:  
+3. Enter the project directory:  
+   ```bash
+   cd project-directory
+4. Run the project:  
    ```bash
    npm run dev
