@@ -11,21 +11,13 @@ In this project I consume a rest api from The Movie Database using axios and rea
 ## ⚙️ How to run  
 1. Clone the repository:  
    ```bash
-   git clone git@github.com:Phsla00/api-rest.git
-2. Install dependencies:  
+   git clone git@github.com:Phsla00/rest-api.git
+2. Enter the project directory:  
    ```bash
-   npx create-next-app@14.2.5
-
-   npm install axios
-
-   npm i sass
-
-   npm install react-icons --save
-
-   npm i react-loading
-3. Enter the project directory:  
+   cd rest-api
+3. Install dependencies:  
    ```bash
-   cd project-directory
+   npm install
 4. Run the project:  
    ```bash
    npm run dev
